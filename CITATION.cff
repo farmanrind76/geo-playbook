@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this playbook, please cite it as below."
+title: "GEO Playbook: a practical framework for getting brands cited in AI answers"
+authors:
+  - given-names: "Farman"
+    family-names: "Rind"
+    website: "https://farmanrind.com"
+repository-code: "https://github.com/farmanrind76/geo-playbook"
+url: "https://farmanrind.com"
+license: CC-BY-4.0
+date-released: 2026-11-15
+keywords:
+  - generative engine optimization
+  - GEO
+  - AI search
+  - SEO
